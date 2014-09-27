@@ -1,4 +1,4 @@
-ng-grade
+ng-starter
 ========
 
 Angular.js Starter Project.
