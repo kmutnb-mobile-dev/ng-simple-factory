@@ -16,5 +16,8 @@ angular.module('ngApp', [])
   })
   .controller('ngCtrl', ['$scope','MyData', function($scope,MyData) {
     $scope.data = MyData.get();
+    $scope.save = function(inputName,inputTel) {
+      MyData.set(inputName,inputTel);
+    };
   }])
   ;
