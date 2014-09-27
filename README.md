@@ -1,7 +1,7 @@
 ng-grade
 ========
 
-ng-grade starter project.
+Angular.js Starter Project.
 
 # 1. Install Packages
 
